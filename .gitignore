@@ -1,0 +1,18 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# User-uploaded images
+/uploads/*
+!/uploads/.gitkeep
+
+# Local editor settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Dependency directory
+/vendor/
