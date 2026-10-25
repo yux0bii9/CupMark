@@ -16,7 +16,7 @@ CUPMARK 是一個以咖啡廳探索與分享為主題的 Web Application。
 
 ## 🌐 Explore CUPMARK
 
-**[☕ Visit CUPMARK](https://cupmark.great-site.net/index.php)**
+**[☕ Visit CUPMARK](https://cupmark.great-site.net/login.php)**
 
 > Demo 目前部署於 InfinityFree 免費主機，
 > 首次載入、頁面切換與貼文發布可能需要較長時間。
