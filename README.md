@@ -49,6 +49,34 @@ CUPMARK 使用 PHP 處理伺服器端邏輯，
 貼文資料操作及回應結果，再由前端呈現內容。
 
 ---
+## 📸 Screenshots｜網站畫面
+
+### ☕ Login Page｜登入頁面
+
+![CUPMARK Login Page](images/screenshots/loginpage.png)
+
+### 📖 Café Journal｜咖啡廳分享
+
+![CUPMARK Café Journal](images/screenshots/postpage.png)
+
+### 📍 Café Search & Achievements｜地標搜尋與成就系統
+
+<table>
+  <tr>
+    <td width="˙65%" align="center">
+      <img src="images/screenshots/googlesearchpage.png" width="100%" alt="Google Maps Café Search">
+    </td>
+    <td width="35%" align="center">
+      <img src="images/screenshots/userinfopage.png" width="100%" alt="CUPMARK Achievements">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Google Maps Places API</b></td>
+    <td align="center"><b>Profile & Achievements</b></td>
+  </tr>
+</table>
+
+---
 
 ## ✨ Features｜功能介紹
 
